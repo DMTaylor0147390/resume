@@ -27,6 +27,7 @@ Software Engineer (Clojure/Elixir)                                              
 * Utilized XTDB/Crux and Clojure to build an audit log that allows internal users to see previous versions of internal data.
 * Built document ingestion and processing capabilities in Elixir.
 * Leveraged Elixir to build webhooks that communicate with our customers regarding rides in progress
+* Built a GraphQL microservice in Clojure that communicates over Confluent Kafka
 
 
 Exporta.io                                                                                                                 Cambridge, MA
