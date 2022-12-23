@@ -1,0 +1,53 @@
+﻿Derek Taylor
+22 Salamanca Avenue • Coral Gables, FL 33134 • derekmtaylor1998@gmail.com • 786-806-7658 
+
+
+
+
+Education
+Harvard University                                                                                    Cambridge, MA
+BA in Computer Science. GPA: 3.26                                                                                  May 2020
+Secondary in Mathematical Sciences
+Relevant Coursework: Probability Theory, Discrete Math, Networks, Combinatorics, Mathematical Biology, Multivariable Calculus, Linear Algebra and Differential Equations.
+
+
+Queen's College, University of Oxford                                                                Oxford, United Kingdom
+Study abroad coursework in Evolutionary Biology with Dr. Andrew Berry.                June 2018 – August 2018
+
+
+Mater Academy Charter High School                                                                                  Miami, FL
+GPA: 3.99                                                                                                     June 2016
+SAT: 1570 (Math: 800, Verbal: 770)
+Valedictorian              
+
+
+Experience
+Ride Health                                                                                                                                      Remote
+Software Engineer (Clojure/Elixir)                                                                         September 2020 –
+* Utilized XTDB/Crux and Clojure to build an audit log that allows internal users to see previous versions of internal data.
+* Built document ingestion and processing capabilities in Elixir.
+* Leveraged Elixir to build webhooks that communicate with our customers regarding rides in progress
+
+
+Exporta.io                                                                                                                 Cambridge, MA
+Back-end Engineering Intern                                                                   August 2018 – August 2019
+* Leveraged the Bubble platform to build and manage database architecture in order to help Latin American manufacturers sell their products in online American markets.
+* Constructed the online user experience in collaboration with front-end designers using the Bubble platform.
+* Built under the Scrum project framework.
+
+
+Leadership and Activities
+Eliot Boat Club                                                                                 Cambridge, MA
+Captain                                                                                  January 2019 – March 2020
+* Organized and led team practices in order to help improve the Eliot House 8-man sweep rowing team.
+* Placed 5th out of 13 in the men's division with a mixed-gender boat.
+
+
+Kew Royal Botanic Gardens                                                                   London, United Kingdom
+Intern                                                                                                              June 2018 – July 2018
+* Deciphered and transcribed correspondence written by Joseph Dalton Hooker for the Joseph Hooker Correspondence Project at Kew's Library, Art and Archives. 
+
+
+Skills & Interests
+Technical: Clojure(Script), Elixir, Redis, MongoDB, OCaml, Python, R, MATLAB, C, SQL, HTML, and JavaScript.
+Language: Conversant in Spanish.
